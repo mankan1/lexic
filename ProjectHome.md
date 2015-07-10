@@ -1,0 +1,3 @@
+Lexic is a word game that is available on the Android platform.  Players are given 3 minutes to find as many words as possible on a grid of random letters.
+
+At this point, the project consists of just a source release.  The code is largely undocumented and contains some legacy cruft in a few places, so I'm going to spend the next couple of weeks working on cleaning it up and adding comments.  There seems to be a bit of interest in adding new dictionaries, so I'm going to start with that code.
